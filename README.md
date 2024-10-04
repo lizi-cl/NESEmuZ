@@ -43,4 +43,4 @@ This project is a NES (Nintendo Entertainment System) emulator written in Go. Th
 To run the emulator, you need to provide the path to a NES ROM file. You can specify the ROM file as a command-line argument:
 
 ```sh
-./nes-emulator path/to/your/rom.nes
+./NESEmuZ path/to/your/rom.nes
